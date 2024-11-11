@@ -1,0 +1,13 @@
+main
+{
+    text-align: center;
+}
+
+.wrapper
+{
+    width: 750px;
+    height: 350px;
+    margin: 25px auto;
+    display: inline-block;
+    vertical-align: middle;
+}
